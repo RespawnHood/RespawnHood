@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ammar Zahran Syafiq</h1>
 <h3 align="center">A passionate android developer from Indonesia</h3>
 
-
 - 🔭 I’m currently study on **IDN Boarding School**
-
 - 🌱 I’m currently learning **Kotlin**
-
 - 👨‍💻 All of my projects are available at [ammaridn.my.id](ammaridn.my.id)
-
 - 📫 How to reach me **ammarzann@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Languages and Tools:</h3>
