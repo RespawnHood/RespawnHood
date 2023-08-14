@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android developer from Indonesia</h3>
 
 - 🔭 I’m currently study on **IDN Boarding School**
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, HTML & CSS** 
 - 👨‍💻 All of my projects are available at [ammaridn.my.id](ammaridn.my.id)
 - 📫 How to reach me **ammarzann@gmail.com**
 
