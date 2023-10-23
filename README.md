@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Zahran Syafiq</h1>
-<h3 align="center">A passionate android developer from Indonesia</h3>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 - 🔭 I’m currently study on **IDN Boarding School**
 - 🌱 I’m currently learning **Kotlin, HTML & CSS** 
